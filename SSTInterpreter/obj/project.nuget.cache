@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZos/k1hYSK/9qAiTh6hIJIMQCpApCvRlRcgWu7t8VNh29S5NN7Bz4cxai0/2w2gxsoQBA8EPnVxWnsxMoi5tQ==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\cs\\SSTInterpreter\\SSTInterpreter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

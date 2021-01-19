@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSTInterpreter", "SSTInterpreter.csproj", "{CC983A6A-CFC4-4ACC-A0E6-A8676C79164D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesInterpretations.UnitTests", "..\FilesInterpretations.UnitTests\FilesInterpretations.UnitTests.csproj", "{961E6A2F-D1A2-4C6E-9979-C87223166CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC983A6A-CFC4-4ACC-A0E6-A8676C79164D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC983A6A-CFC4-4ACC-A0E6-A8676C79164D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC983A6A-CFC4-4ACC-A0E6-A8676C79164D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC983A6A-CFC4-4ACC-A0E6-A8676C79164D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961E6A2F-D1A2-4C6E-9979-C87223166CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961E6A2F-D1A2-4C6E-9979-C87223166CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961E6A2F-D1A2-4C6E-9979-C87223166CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961E6A2F-D1A2-4C6E-9979-C87223166CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32309115-A8CE-44CD-A812-BFB37E795F23}
+	EndGlobalSection
+EndGlobal

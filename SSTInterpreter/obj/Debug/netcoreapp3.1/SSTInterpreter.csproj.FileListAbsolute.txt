@@ -1,0 +1,16 @@
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.csprojAssemblyReference.cache
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.AssemblyInfoInputs.cache
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.AssemblyInfo.cs
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.csproj.CoreCompileInputs.cache
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\SSTInterpreter.exe
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\SSTInterpreter.deps.json
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\SSTInterpreter.runtimeconfig.json
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\SSTInterpreter.runtimeconfig.dev.json
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\SSTInterpreter.dll
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\SSTInterpreter.pdb
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.dll
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.pdb
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.genruntimeconfig.cache
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\dev\cs\SSTInterpreter\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\dev\cs\SSTInterpreter\obj\Debug\netcoreapp3.1\SSTInterpreter.csproj.CopyComplete
